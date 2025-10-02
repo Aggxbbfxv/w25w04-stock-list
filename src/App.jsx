@@ -8,6 +8,7 @@ const stocks = [
   { ticker: 'QQQM' },
   { ticker: 'SPLG' },
   { ticker: '005930.KS' },
+  { ticker: 'GLD' },
 //  { ticker: '005930.KS', name: '삼성전자', currentPrice: 85400, previousClose: 84700 },
 ]
 
