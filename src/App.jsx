@@ -9,6 +9,7 @@ const stocks = [
   { ticker: 'SPLG' },
   { ticker: '005930.KS' },
   { ticker: 'GLD' },
+  { ticker: 'CRCL' },
 //  { ticker: '005930.KS', name: '삼성전자', currentPrice: 85400, previousClose: 84700 },
 ]
 
